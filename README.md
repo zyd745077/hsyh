@@ -23,4 +23,3 @@ The content of this site is managed by Forestry. Visit [https://forestry.io](htt
         bundle exec jekyll serve
 
 1. Browse to [http://localhost:4000](http://localhost:4000)
-123
