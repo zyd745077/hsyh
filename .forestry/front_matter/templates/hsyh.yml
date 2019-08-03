@@ -1,0 +1,22 @@
+---
+label: HSYH
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: thumb_img_path
+  label: thumb_img_path
+- type: textarea
+  name: excerpt
+  label: excerpt
+- type: boolean
+  name: hide_header
+  label: hide_header
+- type: text
+  name: layout
+  label: layout
