@@ -1,5 +1,5 @@
 ---
-new_page_extension: md
+new_page_extension: html
 auto_deploy: false
 admin_path: admin
 webhook_url: https://api.stackbit.com/project/5d44d1798bf0300012f19fdb/webhook/forestry
