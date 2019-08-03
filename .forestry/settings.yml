@@ -36,6 +36,7 @@ sections:
   match: "**/*.md"
   exclude: "{_posts/**,README.md,LICENSE.md,index.md,contact.md}"
   templates:
+  - hsyh
   - page
 - type: jekyll-posts
   label: Post
